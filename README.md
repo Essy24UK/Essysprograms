@@ -5,9 +5,9 @@ Welcome to ESSYS PC OPTIMIZER, your new tool for improving your PC's performance
 
     Download the tool.
     Extract the files:
-        Unzip the downloaded file to a directory of your choice.
+    Unzip the downloaded file to a directory of your choice.
     Open the application:
-        Run the .exe file to get started.
+    Run the .exe file as ADMINISTRATOR to get started.
 
 🛠️ Features
 
