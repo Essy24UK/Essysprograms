@@ -9,6 +9,8 @@ Welcome to ESSYS PC OPTIMIZER, your new tool for improving your PC's performance
     Open the application:
     Run the .exe file as ADMINISTRATOR to get started.
 
+    ## If you are worried about legitimacy, i have made this project OPEN SOURCE so you can see all through the code.
+
 🛠️ Features
 
     Customizable Optimization ⚙️: Select from various options to tailor the optimization process to your needs.
